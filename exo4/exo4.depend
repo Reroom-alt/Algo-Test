@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732967743 source:c:\users\luffy\documents\exercises algo\exercise 01\exo1\exo4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
